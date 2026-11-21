@@ -144,7 +144,3 @@ The main simulation settings, including price tick interval, mean reversion and 
 ## Security and limitations
 
 STOCKex is designed for trusted classroom/workshop sessions. It is not a hardened public-facing trading platform. Use a strong admin password, keep the database private, and do not expose the built-in HTTP server directly to the public internet. For public deployment, add production-grade HTTPS termination, request protections, rate limiting, robust session management and operational monitoring.
-
-## License
-
-No license is included. Unless you add a license, GitHub users may view the code but do not automatically receive permission to reuse, modify or redistribute it.
